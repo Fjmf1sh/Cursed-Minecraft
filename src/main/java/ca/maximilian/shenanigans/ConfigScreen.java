@@ -8,7 +8,7 @@ import net.minecraft.network.chat.Component;
 import net.minecraft.resources.ResourceLocation;
 
 import static ca.maximilian.shenanigans.Shenanigans.MOD_ID;
-
+@SuppressWarnings("deprecation")
 public class ConfigScreen {
     private static ResourceLocation imageSample(String name) {
         return YACLPlatform.rl(MOD_ID, "textures/images/" + name);
