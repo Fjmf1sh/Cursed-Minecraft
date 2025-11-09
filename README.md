@@ -9,10 +9,14 @@ This is probably in the future going to be the MOST CURSED mod EVER. Current fea
 Adding more soon!
 ## Planned additions:
 - Fast mobs
-- Tnt wand
+- TNT wand
 ## Contributions
 Please contribute a curse to this mod if you really so wish to see the codebase!
 ## Gallery
 Fast Lava Mod:
 
 ![fastLavaPreviewCompressed](./fastLavaPreview.gif)
+
+Infinite Lava Mod:
+
+![inf_lava_preview.webp](./inf_lava_preview.webp)
