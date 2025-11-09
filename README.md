@@ -15,4 +15,4 @@ Please contribute a curse to this mod if you really so wish to see the codebase!
 ## Gallery
 Fast Lava Mod:
 
-![fastLavaPreviewCompressed](fastLavaPreview.gif)
+![fastLavaPreviewCompressed](https://cdn.jsdelivr.net/gh/maximilian1121/Cursed-Minecraft/fastLavaPreview.gif)
