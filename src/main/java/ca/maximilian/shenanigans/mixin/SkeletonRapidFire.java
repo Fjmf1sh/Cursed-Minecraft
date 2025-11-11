@@ -17,7 +17,7 @@ public class SkeletonRapidFire {
         if (Config.HANDLER.instance().rapidSkeletons) {
             return 0;
         }
-        return 20;
+        return 5;
     }
 
     /**
